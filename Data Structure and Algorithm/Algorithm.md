@@ -62,14 +62,13 @@ def sum_number(num):
 
 sum_number(10)
 ```
+參考資料：https://blog.techbridge.cc/2019/03/01/computer-science-algorithm-introduction/
+
+
 
 ## Step 4：撰寫程式
 
-<br>
 
-
-
-參考資料：https://blog.techbridge.cc/2019/03/01/computer-science-algorithm-introduction/
 ## QuickSort
 
 ```python
